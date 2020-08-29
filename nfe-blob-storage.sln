@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nfe-blob-storage", "nfe-blob-storage\nfe-blob-storage.csproj", "{7D025D8C-D024-4C21-900C-37C232D8826D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D025D8C-D024-4C21-900C-37C232D8826D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D025D8C-D024-4C21-900C-37C232D8826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D025D8C-D024-4C21-900C-37C232D8826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D025D8C-D024-4C21-900C-37C232D8826D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D5C213-6E81-47D2-982E-C7B396D0600D}
+	EndGlobalSection
+EndGlobal

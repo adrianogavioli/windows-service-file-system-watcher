@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "nfe_blob_storage": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
